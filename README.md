@@ -71,3 +71,7 @@ FutureScope-AI/
 ## Author
 
 Rohit Gurjar
+
+##live demo
+https://futurescope-ai-xfx2.onrender.com
+
