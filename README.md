@@ -75,3 +75,5 @@ Rohit Gurjar
 ##live demo
 https://futurescope-ai-xfx2.onrender.com
 
+## live browser webpage link
+http://localhost:8501/
